@@ -12,7 +12,7 @@ authors:
  - name: Akella Niranjan
    orcid: 0000-0002-0625-236X
    affiliation: 1
- - name: K V Subrahmanyam
+ - name: Kandula V Subrahmanyam
    orcid: 0000-0003-2987-1232
    affiliation: 2
  - name: S V Ranganayakulu
