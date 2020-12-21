@@ -42,15 +42,15 @@ The current research has been supported with image data from MOSDAC, which helpe
 
 - Augustine, J.A., Howard, K.W., 1988. Mesoscale Convective Complexes over the United States during 1985. Mon. Wea. Rev. 116 (3), 685-701. DOI: doi.org/10.1175/1520-0493(1988)116%3C0685:MCCOTU%3E2.0.CO;2 
 - Cancelada, M., Salio, P., Vila, D., Nesbitt, S.W., 315 Vidal, L., 2020. Backward Adaptive Brightness Temperature Threshold Technique (BAB3T): A Methodology to Determine Extreme Convective Initiation Regions Using Satellite Infrared Imagery. Remote Sens.12, 337. DOI: doi.org/10.3390/rs12020337
-- Carvalho, L.M.V., Jones, C., 2001. A satellite method to identify structural properties of mesoscale convective systems based on maximum spatial correlation tracking technique (MASCOTTE). J. Appl. Meteor. 40, 1683–1701. DOI: doi.org/10.1175/1520‐0450(2001)040<1683:ASMTIS>2.0.CO;2
+- Carvalho, L.M.V., Jones, C., 2001. A satellite method to identify structural properties of mesoscale convective systems based on maximum spatial correlation tracking technique (MASCOTTE). J. Appl. Meteor. 40, 1683–1701. DOI: https://doi.org/10.1175/1520-0450(2001)040<1683:ASMTIS>2.0.CO;2
 - Chen, S.S., Houze, R.A., Mapes, B.E., 1996. Multiscale variability of deep convection in
-relation to large‐scale circulation in TOGA COARE. J. Atmos. Sci. 53, 1380–1409. DOI: https://doi.org/10.1175/15200469(1996)053<1380:MVODCI>2.0.CO;2
+relation to large‐scale circulation in TOGA COARE. J. Atmos. Sci. 53, 1380–1409. DOI: https://doi.org/10.1175/1520-0469(1996)053<1380:MVODCI>2.0.CO;2
 - Cotton, W.R., Anthes, R.A., 1989. Storm and Cloud Dynamics. Academic Press, 880 pp; Google Books
 - Fiolleau, T., Roca, R., 2013. An algorithm for the detection and tracking of tropical mesoscale convective systems using infrared images from geostationary satellite. IEEE Trans.Geosci. Remote. Sens. 51(7), 4302-4315
 - Gray, W.M., 1998. The formation of tropical cyclones. Meteorol. Atmos. Phys. 67, 37–69
 - Houze, R.A., 1982. Cloud clusters and large-scale vertical motions in the tropics. J. Meteorol.
 332 Soc. Jpn. 60, 396–410Houze, R.A., 2004. Mesoscale convective systems. Rev. Geophys. 42(4)
-- Kober, K., Tafferner, A., 2009. Tracking and nowcasting 334 of convective cells using remote sensing data from radar and satellite. Meteorol. Zeitsch. 18, 75-84. DOI: doi.org/10.1127/0941-2948/2009/359Lakshmanan, V., Hondl, K., Rabin, R., 2009. An efficient, general-purpose technique for identifying storm cells in geospatial images. J. Atmos. Oceanic. Technol. 26(3), 523-537
+- Kober, K., Tafferner, A., 2009. Tracking and nowcasting of convective cells using remote sensing data from radar and satellite. Meteorol. Zeitsch. 18, 75-84. DOI: doi.org/10.1127/0941-2948/2009/359Lakshmanan, V., Hondl, K., Rabin, R., 2009. An efficient, general-purpose technique for identifying storm cells in geospatial images. J. Atmos. Oceanic. Technol. 26(3), 523-537
 - Lang, P., 2001. Cell tracking and warning indicators derived from operational radar products. Proceedings of the 30th International Conference on Radar Meteorology, Munich, Germany, 245–247
 - Mecklenburg, S., Joss, J., Schmidt, S.W., 2000. Improving the nowcasting of precipitation in an Alpine region with enhanced radar echo tracking algorithm. J. Hydrol. 239, 46–68
 - Moncrieff, M.W., 2010. The multiscale organization of moist convection and the intersection of weather and climate. Why Does ClimateVary? American Geophysical Union, Climate Dynamics. DOI: https://doi.org/10.1029/2008GM000838 Washington, DC
