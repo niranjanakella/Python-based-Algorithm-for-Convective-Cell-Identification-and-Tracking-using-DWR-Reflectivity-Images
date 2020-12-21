@@ -1,28 +1,30 @@
 ---
-title: 'multimatch-gaze: The MultiMatch algorithm for gaze path comparison in Python'
+title: 'Python-based Algorithm for Convective Cell Identification and Tracking using DWR Reflectivity Images'
 tags:
-  - eyetracking
-  - scan path
-  - fixation
-  - saccade
-  - Python
+  - Doppler Weather Radar
+  - Computer Vision
+  - LSTM Nerual Networks
+  - OCR
+  - Optical Character Recognition
+  - Python Algorithm
+  - Convective Cell Tracking
 authors:
- - name: Adina S. Wagner
-   orcid: 0000-0003-2917-3450
+ - name: Akella Niranjan
+   orcid: 0000-0002-0625-236X
    affiliation: 1
- - name: Yaroslav O. Halchenko
-   orcid: 0000-0003-3456-2493
-   affiliation: "3"
- - name: Michael Hanke
-   orcid: 0000-0001-6398-6370
-   affiliation: "1, 2"
+ - name: Dr K V Subrahmanyam
+   orcid: 0000-0003-2987-1232
+   affiliation: 2
+ - name: Dr S V Ranganayakulu
+   orcid: 0000-0003-1070-5103
+   affiliation: 3
 affiliations:
- - name: Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany
+ - name: 3rd Year, Electronics & Communication Engineering, Guru Nanak Institutions Technical Campus, Ibrahimpatnam, Telangana, India
    index: 1
- - name: Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany
+ - name: Space Physics Laboratory, Vikram Sarabhai Space Centre, ISRO, Trivandrum, India
    index: 2
- - name: Department of Psychological and Brain Sciences, Dartmouth College, Dartmouth, NH, United States
+ - name: Dean Research & Development, Guru Nanak Institutions Technical Campus, Ibrahimpatnam, Telangana, India
    index: 3
-date: 17 May 2019
+date: 21 December 2020
 bibliography: paper.bib
 ---
