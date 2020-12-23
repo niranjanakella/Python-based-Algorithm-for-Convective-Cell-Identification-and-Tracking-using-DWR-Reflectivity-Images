@@ -37,7 +37,9 @@ The proposed Python algorithm has a Deep learning-based approach towards the ide
 
 # Acknowledgment
 
-The current research has been supported with image data from MOSDAC, which helped in simulating and validating the developed algorithm at various levels.\\Authors are very greatly thankful to the Anaconda Inc. and OpenCV community for supporting the project through their valuable open-sourced content.
+The current research has been supported with image data from MOSDAC, which helped in simulating and validating the developed algorithm at various levels. 
+
+Authors are very greatly thankful to the Anaconda Inc. and OpenCV community for supporting the project through their valuable open-sourced content.
 
 # References
 
