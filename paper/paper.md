@@ -21,7 +21,7 @@ authors:
 affiliations:
  - name: 3rd Year, Electronics & Communication Engineering, Guru Nanak Institutions Technical Campus, Ibrahimpatnam, Telangana, India
    index: 1
- - name: Space Physics Laboratory, Vikram Sarabhai Space Centre, ISRO, Trivandrum, India
+ - name: Scientist/Engineer, ‘SE’, Space Physics Laboratory, Vikram Sarabhai Space Centre, ISRO, Trivandrum, India
    index: 2
  - name: Dean Research & Development, Guru Nanak Institutions Technical Campus, Ibrahimpatnam, Telangana, India
    index: 3
