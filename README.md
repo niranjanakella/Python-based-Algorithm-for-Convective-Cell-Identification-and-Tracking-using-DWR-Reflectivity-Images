@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4415814.svg)](https://doi.org/10.5281/zenodo.4415814)
+
 # Python-based-Algorithm-for-Convective-Cell-Identification-and-Tracking-using-DWR-Reflectivity-Images
 The identification and tracking of these Convective Cells through out their lifetime are of great significance in the weather and climate system. The present study developed an autonomous Python-based algorithm for the identification and tracking of Convective Cells using Doppler Weather Radar (DWR) reflectivity images and the preliminary results are discussed. The proposed algorithm implements Deep Neural Network-based Computer Vision (CV) approach for the identification and tracking of Convective Cells using Optical Character Recognition (OCR) engine "Tesseract"
 
